@@ -1,3 +1,8 @@
 # magicball
+Описание
 Задача 22-4 — Волшебный шар в github
-command to run this project: ruby magicball.rb
+version 1.1
+Программа с радостью ответит на ваши вопросы
+
+Версия Ruby: 2.6.6
+Команда для запуска: ruby magicball.rb
