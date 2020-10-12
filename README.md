@@ -1,13 +1,19 @@
-# magicball
+# Магический шар (Шар судьбы)
+
 
 Описание
 
-Задача 22-4 — Волшебный шар в github
+version 1.1 
 
-version 1.1
+автор: Денис Широких (denisshirokikh@gmail.com)
 
 Программа с радостью ответит на ваши вопросы
 
+https://ru.wikipedia.org/wiki/Magic_8_ball
+
 Версия Ruby: 2.6.6
 
-Команда для запуска: ruby magicball.rb
+Команда для запуска: 
+````
+ruby magicball.rb
+````
